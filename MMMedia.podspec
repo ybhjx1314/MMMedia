@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMMedia'
-  s.version          = '2.4.0'
+  s.version          = '2.5.0'
   s.summary          = 'MMMedia'
 
   s.description      = <<-DESC
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.baidu.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'bi.s_fish' => 'sunfeifish@gmail.com' }
-  s.source           = { :git => 'https://github.com/cosmos33/MMMedia.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ybhjx1314/MMMedia', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
