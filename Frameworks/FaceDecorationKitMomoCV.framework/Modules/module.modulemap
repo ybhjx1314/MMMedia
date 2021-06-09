@@ -1,6 +1,0 @@
-framework module FaceDecorationKitMomoCV {
-  umbrella header "FaceDecorationKit+MomoCV-umbrella.h"
-
-  export *
-  module * { export * }
-}
